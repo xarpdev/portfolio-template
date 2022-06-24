@@ -126,6 +126,10 @@ h1 {
   letter-spacing: 1px;
 }
 
+.sobre-mi{
+  text-align: justify;
+}
+
 .title-section {
   display: flex;
   align-items: center;
