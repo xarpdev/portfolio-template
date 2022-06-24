@@ -130,6 +130,9 @@ h1 {
   text-align: justify;
 }
 
+.description-project{
+  text-align: justify;
+}
 .title-section {
   display: flex;
   align-items: center;
